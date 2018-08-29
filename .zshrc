@@ -99,5 +99,6 @@ fi
 
 source $ZSH/oh-my-zsh.sh
 
+
 alias xrdb-xres="xrdb -merge ~/.Xresources"
 alias u="unicode "
