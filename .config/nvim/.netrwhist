@@ -1,3 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =4
 let g:netrw_dirhist_1='/home/shelby/.config/mopidy'
+let g:netrw_dirhist_2='/home/shelby/.config/mpd'
+let g:netrw_dirhist_3='/home/shelby/.config/wal/templates'
+let g:netrw_dirhist_4='/etc/systemd/system'

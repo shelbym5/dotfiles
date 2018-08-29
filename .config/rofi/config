@@ -1,0 +1,15 @@
+#rofi.color-window: argb:AA000000, #FF0000, #FF0000
+#rofi.color-normal: argb:00000000, #FFFFFF, argb:00000000, #aa4084d6, #f9f9f9
+#rofi.color-urgent: argb:2c1d1f21, #cc6666, argb:e54b5160, #a54242, #f9f9f9
+#rofi.color-active: argb:2c1d1f21, #65acff, argb:e44b5160, #4491ed, #f9f9f9
+#rofi.width: 100
+rofi.lines: 5
+rofi.columns: 1
+rofi.font: Noto Sans 24
+rofi.bw: 0
+rofi.padding: 800
+rofi.eh: 1
+rofi.separator-style: none
+rofi.hide-scrollbar: true
+#rofi.fullscreen: true
+rofi.theme: ~/.cache/wal/colors-rofi-dark.rasi
